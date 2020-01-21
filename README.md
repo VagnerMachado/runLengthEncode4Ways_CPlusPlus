@@ -1,5 +1,5 @@
 # runLengthEncode4Ways_CPlusPlus
-Run Lenght Encode in four different manners, coded in C++
+Run Lenght Encode (and decode) in four different manners, coded in C++
 
 <pre>
 
