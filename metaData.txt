@@ -1,0 +1,16 @@
+
+Method 1 was used to compress the input image.
+49 runs were produced in Run-Length encoding.
+784 bytes were used to encode not counting the image header.
+
+Method 2 was used to compress the input image.
+26 runs were produced in Run-Length encoding.
+416 bytes were used to encode not counting the image header.
+
+Method 3 was used to compress the input image.
+31 runs were produced in Run-Length encoding.
+496 bytes were used to encode not counting the image header.
+
+Method 4 was used to compress the input image.
+19 runs were produced in Run-Length encoding.
+304 bytes were used to encode not counting the image header.
